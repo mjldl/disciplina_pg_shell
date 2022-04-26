@@ -1,2 +1,2 @@
-Repositório voltado para resolução da lista 1 da disciplina de 'Programação de Script' :coffee: :coffee:
+Repositório voltado para resolução da lista 1 da disciplina de 'Programação de Scripts' :coffee: :coffee:
 
